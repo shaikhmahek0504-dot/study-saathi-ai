@@ -19,5 +19,6 @@ View your app in AI Studio: https://ai.studio/apps/45e3e9ff-7ff7-4887-bda0-82d87
 3. Run the app:
    `npm run dev`
 ## Deployment link
- https://github.com/shaikhmahek0504-dot/study-saathi-ai.git
+ study-saathi-ai-o1bo.vercel.app
+ 
  
