@@ -1,0 +1,6 @@
+{
+  "name": "Study Saathi AI",
+  "description": "A modern AI-powered Student Assistant web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
